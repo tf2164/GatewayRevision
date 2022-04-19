@@ -1,0 +1,214 @@
+
+
+
+/* CSS for index page */
+
+
+.backindex {
+  background-color: #ffcbcb;
+}
+
+.nav {
+width:100%;
+  background: #333;
+}
+  .nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* CSS for slideshow */
+.slideButtonLeft{
+  display: show;
+}
+
+.slideButtonRight{
+  display: show;
+}
+
+.slideShow {
+display: block;
+text-align: center;
+
+
+
+
+}
+
+
+/* CSS for contact page */
+form {
+text-align: center;
+top:-30px;
+
+  
+} 
+
+/* CSS for button to explore on index page */
+
+a.buttons_ {
+    display: inline-block;
+text-align: center;
+cursor: pointer;
+  position:absolute;
+   top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  padding: 16px;
+  background-color: #afc5ff; 
+  width: 150px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+
+}
+
+
+
+/* the css for all of the titles */
+
+.Pagetitles {
+ padding: 30px;
+  text-align: left;
+  background: #afc5ff; 
+  color: black;
+  font-size: 30px;
+display:inline-block;
+
+  
+}
+
+/* positioning for footer */
+footer {
+  z-index: 0;
+  bottom:0px;
+background-color:#F08080;
+  text-align: center;
+
+  position:fixed;
+  width: 100%;
+  height: 100px;
+
+}
+
+
+/* CSS for To do page */
+#Organizer {
+display: inline-block;
+background-color: #fcff82; 
+width:75%;
+  
+}
+#Organizerpara {
+font-display: bold;
+
+}
+
+aside {
+
+float: left;
+  
+}
+
+
+
+.Photoinsert{
+  display:inline-block;
+  max-height: 300px;
+  max-width:300px;
+
+}
+
+dt{
+font: bold;
+
+  
+}
+
+
+
+/* CSS for need to know page*/
+/* 
+*/
+.NTK {
+background-color:#c24d2c;
+  
+}
+.PagetitlesNTK {
+ padding: 30px;
+  text-align: left;
+  background: #2c786c;
+  color: black;
+  font-size: 30px;
+display:inline-block;
+
+  
+}
+.adjusterNTK {
+background-color: #c24d2c;
+height:400px;
+  width:577px;
+  float: left;
+  position:relative;
+  padding: 0px;
+  top: -380px;
+ right:577px;
+}
+
+
+.column {
+  float: left;
+  background-color: #ffc93c;
+  position:static;
+  padding: 15px;
+  float: left;
+  width: 33.33%;
+  
+}
+
+
+figure {
+
+  width:100%;
+}
+
+
+.column img{
+
+  max-height: 400px;
+  max-width: 275px;
+  width:100%;
+}
+/* Universal applications */
+/* 
+*/
+section{
+  padding: 30px;
+display: inline-block;
+    height:175px;
+  width: 50% ;
+    position: static;
+    left: 0;
+    outline: none;
+  color: #c4c1e0; 
+    border: solid #cdcdcd;
+    border-color: rgba(0,0,0,.15);
+    background-color: #7c73e6; 
+    font-size: 22px;
+ 
+
+  
+}
+
+/* reset button */
+.backbutton {
+top:0;
+  float:right;
+  background-color: #ff9c6d; 
+  width:200px;
+
+}
+
+
+
+
+
